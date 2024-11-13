@@ -17,7 +17,7 @@ scikit-learn == 1.2.0
 
 ## Running steps
 1.MVPF.py\
-2.MVPFDPC.py\
+2.MVPFDPC.py
 
 ## Contact
 If you have any problems or find mistakes, please feel free to contact me: z22070050@s.upc.edu.cn
